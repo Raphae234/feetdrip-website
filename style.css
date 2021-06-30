@@ -89,7 +89,6 @@ section img
 }
 section img#moon
 {
-  mix-blend-mode: screen;
   width: 100%;
   height: auto;
 }
