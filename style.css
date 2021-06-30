@@ -89,8 +89,7 @@ section img
 }
 section img#moon
 {
-  width: 100%;
-  height: auto;
+  mix-blend-mode: screen;
 }
 section img#mountains_front
 {
